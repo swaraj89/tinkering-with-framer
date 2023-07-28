@@ -2,7 +2,7 @@ Absolutely! Here's a description for the "Tinkering with Framer" GitHub reposito
 
 ## Tinkering with Framer
 
-![Project Banner]([link-to-project-banner.png](https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png)) <!-- Replace "link-to-project-banner.png" with a URL to an image that represents your project -->
+![Project Banner]((https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png))
 
 ### Overview:
 
